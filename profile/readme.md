@@ -10,4 +10,6 @@ For the SDK manager's installation, please refer to the proper documentation [Fr
 
 ## Supporting the bucket of InuSDK
 
-> Quick information, the bucket is where the SDKs are stored and InuSDK seek the data to install in your computer.
+The bucket is where the manifest is stored, it where the recipes to install your favourite SDK is stored.
+
+In the actual state, the bucket only store JDKs
